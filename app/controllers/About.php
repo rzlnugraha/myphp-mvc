@@ -10,4 +10,6 @@ class About {
     {
         echo 'About/page';
     }
+
+    // Nambah comment ini harus di push
 }
